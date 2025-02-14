@@ -13,4 +13,7 @@ Note:
 ```bash
 pip install networkx pygraphviz
 ```
-
+3: **install matplotlib**:
+```bash
+python -m pip install -U matplotlib
+```
