@@ -8,4 +8,9 @@ Note:
 1: **install yfinance**:
   ```bash
   pip install yfinance
+```
+2: **install networx**:
+```bash
+pip install networkx pygraphviz
+```
 
